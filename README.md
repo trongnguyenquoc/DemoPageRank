@@ -18,7 +18,7 @@
 - Open DemoPageRank.sln file in DemoPageRank folder
 - In Visual Studio, Build and Run the project as Https profile
 #### Client app
-- Go to DemoPageRank/src/demo-app folder and 
+- Go to DemoPageRank/src/demo-app folder
 - run ```npm install```
 - run ```npm run start```
 
