@@ -22,6 +22,6 @@
 - run ```npm install```
 - run ```npm run start```
 
-### Port configuration
+### Port configuration (in case needed) 
 - API is configured to port https://localhost:7007 as HTTPS Profile in the file Properties/launchSettings.json 
 - The React app is configured to run on port 3000 and calls the backend API on port 7007 in file .env.
