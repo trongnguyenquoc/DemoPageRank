@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\research\\InfoTrack\\DemoPageRank\\DemoPageRank\\src\\DemoPageRank.Domain\\DemoPageRank.Domain.csproj": {}
+  },
+  "projects": {
+    "D:\\research\\InfoTrack\\DemoPageRank\\DemoPageRank\\src\\DemoPageRank.Domain\\DemoPageRank.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\research\\InfoTrack\\DemoPageRank\\DemoPageRank\\src\\DemoPageRank.Domain\\DemoPageRank.Domain.csproj",
+        "projectName": "DemoPageRank.Domain",
+        "projectPath": "D:\\research\\InfoTrack\\DemoPageRank\\DemoPageRank\\src\\DemoPageRank.Domain\\DemoPageRank.Domain.csproj",
+        "packagesPath": "C:\\Users\\trong.nguyenquoc\\.nuget\\packages\\",
+        "outputPath": "D:\\research\\InfoTrack\\DemoPageRank\\DemoPageRank\\src\\DemoPageRank.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\trong.nguyenquoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\ws\\KolmeoLocalPackages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/kolmeo/_packaging/kolmeo/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
